@@ -3,11 +3,11 @@ body{
 }
 
 h1{
-  font-family: fantasy;
-  font-color: white;
+  font-family: hack;
+  color: white;
 }
 
-shadowstory{
-  font-family: fantasy;
-  font-color: green;
+#shadowstory a{
+  font-family: hack;
+  color: green;
 }
