@@ -3,11 +3,11 @@ body{
 }
 
 h1{
-  font-family: hack;
+  font-family: hack, Courier, monospace;
   color: white;
 }
 
 #shadowstory a{
-  font-family: hack;
+  font-family: hack, Courier, monospace;
   color: green;
 }
